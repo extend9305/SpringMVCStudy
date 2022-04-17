@@ -1,7 +1,13 @@
-<!DOCTYPE html>
+<%--
+  Created by IntelliJ IDEA.
+  User: dongsu_lee
+  Date: 2022-04-10
+  Time: 오후 3:57
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
@@ -10,5 +16,6 @@
     age: <input type="text" name="age" />
     <button type="submit">전송</button>
 </form>
+
 </body>
 </html>
